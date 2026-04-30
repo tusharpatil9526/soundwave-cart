@@ -34,10 +34,14 @@ export const Route = createRootRoute({
       { name: "description", content: "Shop premium headphones from Sony, Bose, JBL, Sennheiser, Apple, Boat & more. Studio-grade sound, free delivery." },
       { name: "author", content: "SoundCart" },
       { property: "og:title", content: "SoundCart — Premium Headphones Store" },
-      { property: "og:description", content: "Premium headphones store. Studio-grade sound, free delivery." },
+      { property: "og:description", content: "Shop premium headphones from Sony, Bose, JBL, Sennheiser, Apple, Boat & more. Studio-grade sound, free delivery." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@SoundCart" },
+      { name: "twitter:title", content: "SoundCart — Premium Headphones Store" },
+      { name: "twitter:description", content: "Shop premium headphones from Sony, Bose, JBL, Sennheiser, Apple, Boat & more. Studio-grade sound, free delivery." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/bfcc0d00-0dfc-42d0-8a7d-45b7967aa6e5/id-preview-cbde0a2c--c0a7e197-0bae-479b-800a-1c3c41b2c2b0.lovable.app-1777468054166.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/bfcc0d00-0dfc-42d0-8a7d-45b7967aa6e5/id-preview-cbde0a2c--c0a7e197-0bae-479b-800a-1c3c41b2c2b0.lovable.app-1777468054166.png" },
     ],
     links: [
       {
